@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-           
+            //CONSTANTES
+
+            //ENTRADA
+
+            //PROCESO
+
+            //SALIDA
         }
     }
 }

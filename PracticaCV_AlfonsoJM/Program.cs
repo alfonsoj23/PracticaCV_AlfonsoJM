@@ -5,7 +5,6 @@
         static void Main(string[] args)
         {
             //CONSTANTES
-            int i = 0;
 
 
             //VARIABLES
